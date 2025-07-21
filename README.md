@@ -21,10 +21,10 @@ A web bank app for my Porfolio. This web bank app will be cimilar to CIBC.
    | Frontend | HTML/CSS/JS |
    | Backend | Java, Spring Boot|
    | DataBase | MySQL |
-   | CI/CD | GitHub Actions + Docker | 
-   
-2. Started with simple Class Diagram
-<img width="624" height="143 Feedback" alt="image" src="https://github.com/user-attachments/assets/7cc12f45-8f0f-404b-837d-2453be43b3d1" />
+   | CI/CD | GitHub Actions
+<img width="624" height="143 Feedback" alt= + Docker |
+
+2. Started with simple Class Diagram"image" src="https://github.com/user-attachments/assets/7cc12f45-8f0f-404b-837d-2453be43b3d1" />
 
 3. Created my SpringBoot Maven java project.
    **Dependency Added**
@@ -36,3 +36,9 @@ A web bank app for my Porfolio. This web bank app will be cimilar to CIBC.
    - Thymeleaf
    - Validation
 
+4. -- In my MySQL workbench I have created my 'baking_app_db' database table
+5. Updated my app.properties; Spring DB config, JPA config and Thymeleaf. 
+6. Created my Model Architecture Class; Account, Transaction and User. Added appropriate jpa annotations. 
+7. Added Enum class with USER and ADMIN role. 
+8. Added RegisterDTO and LoginDTO
+9. 
